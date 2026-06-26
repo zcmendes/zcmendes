@@ -1,7 +1,8 @@
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Security-blue)
-![Python](https://img.shields.io/badge/Python-Automation-green)
-![Linux](https://img.shields.io/badge/Linux-Administration-yellow)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Cloud-4285F4)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Information%20Security-red)
+![DevOps](https://img.shields.io/badge/DevOps-Automation-blueviolet)
 
 
 # Hi, I'm Ze Mendes 👋
