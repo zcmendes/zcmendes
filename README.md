@@ -6,53 +6,109 @@
 
 # Hi, I'm Ze Mendes 👋
 
-Information Security Analyst with experience in Cloud Infrastructure, Cybersecurity, Governance, and Automation.
+**Cloud & Security Analyst | AWS | Azure | Google Cloud**
 
-## Certifications
+Technology professional with experience in Cloud Computing, Infrastructure, Information Security, and IT Governance. Currently focused on cloud architectures, automation, serverless computing, APIs, containers, and cybersecurity.
 
-- AWS Academy Graduate – Cloud Architecting
-- AWS Academy Graduate – Cloud Developing
-- AWS Academy Graduate – Cloud Foundations
-- ISC² Certified in Cybersecurity (CC)
-- CCSK – Certificate of Cloud Security Knowledge
-- Cisco CyberOps Associate
-- ITIL Foundation
-- COBIT
+* 🌎 São Paulo, Brazil
+* 🇬🇧 English: C2 (CEFR)
+* ☁️ Cloud Computing
+* 🔐 Information Security
+* ⚙️ Automation & DevOps
+* 🚀 Continuously building hands-on AWS projects
+
+---
 
 ## Technical Skills
 
-### Cloud
-- AWS
-- Azure
-- Google Cloud
+### ☁️ Cloud
 
-### Security
-- Cloud Security
-- Security Operations
-- IAM
-- Governance
-- Risk Management
+* Amazon Web Services (AWS)
+* Microsoft Azure
+* Google Cloud Platform (GCP)
 
-### DevOps & Automation
-- Python
-- Linux
-- Git
-- Docker
-- Terraform (Learning)
-- CI/CD
+### 🏗️ Infrastructure & DevOps
+
+* Docker
+* Kubernetes
+* Terraform
+* Git
+* CI/CD
+* Infrastructure Automation
+
+### ☁️ Serverless & Integration
+
+* AWS Lambda
+* Amazon API Gateway
+* Amazon EventBridge
+* Amazon DynamoDB
+* REST APIs
+* Microservices
+
+### 🔐 Security & Governance
+
+* Identity and Access Management (IAM)
+* MFA
+* RBAC
+* IT Governance
+* Incident Response
+* LGPD
+* ITIL
+* COBIT
+
+---
+
+## Certifications
+
+* ITIL Foundation (EXIN)
+* COBIT 5 Foundation (ISACA)
+
+---
+
+## Professional Training
+
+### Cloud Computing
+
+* AWS Academy Graduate – Cloud Foundations
+* AWS Academy Graduate – Cloud Developing
+* AWS Academy Graduate – Cloud Architecting
+* Architecting with Google Compute Engine (Coursera)
+
+### Cybersecurity
+
+* Cisco CyberOps Associate
+* CCSK v4.1
+* Certified in Cybersecurity (CC) – (ISC)²
+* Blue Team Specialization (Hackers do Bem)
+* Cybersecurity Fundamentals (Hackers do Bem)
+
+### Artificial Intelligence
+
+* Vertex AI (Google Cloud)
+* Career Essentials in Generative AI (Microsoft & LinkedIn)
+
+### Data Analytics
+
+* Google Data Analytics (Coursera)
+* Introduction to Data Science (Cisco Networking Academy)
+
+---
 
 ## Featured Projects
 
-### AWS Event-Driven Architecture Lab
-Event-driven serverless architecture using API Gateway, EventBridge, Lambda, DynamoDB and WebSockets.
+* AWS Event-Driven Architecture Lab
+* AWS Config Auto Remediation Lab
+* AWS Working with Amazon ECS
+* AWS Serverless Foundations Lab
 
-### AWS Config Auto Remediation Lab
-Automated compliance remediation using AWS Config and Systems Manager Automation.
+More projects are available in my repositories.
 
-### AWS Working with Amazon ECS
-Containerized applications deployed using Amazon ECS.
+---
 
 ## Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/zcmendes
-- GitHub: https://github.com/zcmendes
+* GitHub: https://github.com/zcmendes
+* LinkedIn: https://www.linkedin.com/in/zemendes
+* Credly: https://www.credly.com/users/ze-mendes
+* Google Cloud Skills Boost: https://bit.ly/3IDSlU9
+
